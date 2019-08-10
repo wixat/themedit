@@ -365,15 +365,15 @@ foreignObject {
 
 [viewBox="0 0 40 32"] {
 	background-size: cover;
-	height: 20px;
-	width: 20px;
+	height: 40px;
+	width: 40px;
 }
 
 .avatar-SmRMf2, .wrapper-3t9DeA {
 	margin-bottom: 8px;
 }
 
-.da-avatar [style="width: 20px; height: 20px;"] { /*large avatar*/
+.da-avatar [style="width: 40px; height: 40px;"] { /*large avatar*/
 	background-size: cover;
 	width: 62.5px !important;
 	height: 62.5px !important;
